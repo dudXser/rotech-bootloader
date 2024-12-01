@@ -1,0 +1,6 @@
+../USB_DEVICE/App/usbd_dfu_if.c:272:10:MEM_If_Read_FS	2
+../USB_DEVICE/App/usbd_dfu_if.c:300:10:MEM_If_GetStatus_FS	1
+../USB_DEVICE/App/usbd_dfu_if.c:229:10:MEM_If_Write_FS	4
+../USB_DEVICE/App/usbd_dfu_if.c:196:10:MEM_If_Erase_FS	1
+../USB_DEVICE/App/usbd_dfu_if.c:176:10:MEM_If_DeInit_FS	2
+../USB_DEVICE/App/usbd_dfu_if.c:158:10:MEM_If_Init_FS	2
